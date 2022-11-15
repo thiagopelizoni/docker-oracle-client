@@ -1,8 +1,8 @@
-# Oracle Instant Client 18.5 on Ubuntu 20:04 Docker image
+# Oracle Instant Client 18.5 on Ubuntu 20.04 Docker image
 
 First of all, before running the commands below, fill the tnsnames.ora using your own string connection in order to make this image works properly
 
-# Creating image
+# Creating the image
 
 ```
 docker build -t oracle-client:latest .
