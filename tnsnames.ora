@@ -1,0 +1,4 @@
+net_service_name =
+    (DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = xxx.xxx.com)(PORT = 1521))
+    (CONNECT_DATA = (SERVICE_NAME = service_name))
+)
